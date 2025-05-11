@@ -54,18 +54,14 @@ O que você quer ouvir hoje?
 Right Here - 7/10 ★★★★★★★
 Afetos - 9/10 ★★★★★★★★★
 
-🤔 Aprendizados
+🤔 Aprendizados:
+
 Neste projeto eu reforcei:
-
-Criação de classes e objetos
-
-Uso de Scanner para interação com o usuário
-
-Herança com classes Musica e Podcast estendendo Audio
-
-Lógica de classificação customizada
-
-Estruturação de menus no console
+▪️Criação de classes e objetos
+▪️Uso de Scanner para interação com o usuário
+▪️Herança com classes Musica e Podcast estendendo Audio
+▪️Lógica de classificação customizada
+▪️Estruturação de menus no console
 
 
 Projeto inspirado em exercícios da Alura com adaptações e personalizações próprias. ☕
