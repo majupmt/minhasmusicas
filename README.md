@@ -42,7 +42,7 @@ src/
         └── Principal.java
 
 
-⭐ Exemplo de saída
+##⭐ Exemplo de saída
 
 🎵 Bem-vinda à sua conta, Maria Júlia!
 O que você quer ouvir hoje?
@@ -54,7 +54,7 @@ O que você quer ouvir hoje?
 Right Here - 7/10 ★★★★★★★
 Afetos - 9/10 ★★★★★★★★★
 
-🤔 Aprendizados:
+##🤔 Aprendizados:
 
 Neste projeto eu reforcei:
 ▪️Criação de classes e objetos
@@ -64,4 +64,4 @@ Neste projeto eu reforcei:
 ▪️Estruturação de menus no console
 
 
-Projeto inspirado em exercícios da Alura com adaptações e personalizações próprias. ☕
+## Projeto inspirado em exercícios da Alura com adaptações e personalizações próprias. ☕
